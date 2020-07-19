@@ -1,0 +1,1 @@
+enum MenuType { CLOCK, ALARM, TIMER, STOPWATCH }
